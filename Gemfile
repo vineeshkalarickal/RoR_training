@@ -29,6 +29,9 @@ gem "jbuilder"
 
 # active model serializers
 gem "active_model_serializers", "~> 0.9.3"
+
+gem 'rake', '~> 13.0.6'
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
